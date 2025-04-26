@@ -1,1 +1,1 @@
-// Use cases/business rules
+// Coordinates use-cases. Invokes domain logic and infrastructure adapters.

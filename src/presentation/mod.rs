@@ -1,0 +1,1 @@
+/// Hosts HTTP/gRPC routes and DTOs, translating requests to the application layer.

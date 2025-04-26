@@ -1,0 +1,1 @@
+// Implements concrete adapters (DB, cache, email, etc.) required by the app/domain.

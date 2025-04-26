@@ -1,0 +1,1 @@
+// Misc (possibly generic) helpers with no business knowledge, reusable across layers.

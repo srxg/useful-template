@@ -1,1 +1,1 @@
-// Pure business logic
+/// Defines core business entities, value objects, and invariants.
